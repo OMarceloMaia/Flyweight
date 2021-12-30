@@ -39,3 +39,6 @@ Na classe ProductFactory, implementamos o gerenciador das flyweights a serem cri
 A Interface ProductFlyweight é responsável por padronizar todos os flyweights e definir quais são os parâmetros de estado extrínsecos a serem recebidos pelo método implementado dentro da interface. 
 
 Na classe ProductIntrinsic, é onde o Flyweight é de fato criado, onde a interface é implementada e o seu método utilizado, com a passagem dos parâmetros. No construtor dessa classe, criamos o estado intrínseco, que deve ser compartilhado porém inalterável e que é do tipo criado na classe ProductData. 
+
+
+*Todo o processo foi feito em call com todos os integrantes do grupo.*
